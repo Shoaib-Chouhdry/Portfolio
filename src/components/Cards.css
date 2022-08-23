@@ -1,0 +1,23 @@
+.ccontainer{
+height :50vh;
+gap:2rem; 
+
+
+
+}
+.hello{
+    border: 8px grey solid;
+    border-radius: 30px;
+    width :20%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 250px;
+    height: 350px;
+   
+}
+.img>img{
+    width: 200px;
+    height: 200px;
+}

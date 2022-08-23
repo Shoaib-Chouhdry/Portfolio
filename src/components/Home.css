@@ -1,0 +1,23 @@
+ 
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ .top{
+
+
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    
+} 
+.border{
+
+     /* border: 2px solid black;
+     width:15%
+    */
+
+
+}

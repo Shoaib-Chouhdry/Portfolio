@@ -1,0 +1,50 @@
+.intro{
+
+      height: 90vh;
+      display: flex;
+      justify-content: center;
+       justify-items: center;
+      background-image: url( "../images/lap.jpg" ) ;    
+      background-size: contain;
+      background-size: cover;
+     background-repeat: no-repeat; 
+       
+}
+ 
+
+.name{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: large;
+    margin-right: 6rem;
+
+}
+.paragraph{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-size: large;
+    margin-left: 11rem;
+}
+.position{
+    display: flex; 
+    flex-direction: column;
+     padding-top: 200px;
+    padding-bottom: 250px;
+    padding-right: 350px ;
+    padding-left: 400px ;   
+    align-items: center;
+    justify-content: center;
+  
+    
+
+} 
+.hey{
+    margin-right: 12rem;
+    padding-bottom: 2rem;
+}

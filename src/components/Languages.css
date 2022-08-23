@@ -1,0 +1,38 @@
+
+*{
+    box-sizing: border-box;
+     margin: 0;
+     padding: 0;
+     font-family: 'pt-sans' sans-serif;
+   
+ }
+ .cards>*{
+    position: relative;
+} 
+.cards{
+    
+    flex-wrap: wrap;  
+    margin :4rem;
+     margin-left: 10rem; 
+    display: flex; 
+    gap: 25rem; 
+     
+}
+.langintro{
+   
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin-right: 40rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: right;
+}
+.lan{
+    
+    padding-bottom: 2rem; 
+    
+   
+}
